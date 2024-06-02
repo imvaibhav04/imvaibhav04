@@ -1,5 +1,5 @@
 # Hello World !!
-CSE Undergrad <br> 5⭐C++ & 4⭐C @Hackerank<br> JS || Python <br> Front end developer <br> DSA with C++ <br> Competitive Programmer | AI
+CSE Undergrad <br> 5⭐C++ & 4⭐C @Hackerank<br> JS || Python || git/github <br> Frontend developer <br> DSA with C++ <br> Competitive Programmer | AI
 
 
 # 💻 Tech Stack:
